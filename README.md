@@ -236,6 +236,53 @@ Achievements:
 
 ---
 
+---
+
+### 🚀 Featured Projects
+
+<table>
+  <tr>
+    <td width="50%">
+      <h3 align="center">💰 Tunafund</h3>
+      <p align="center">
+        <a href="https://tunafund.marcosvictos.com/" target="_blank">
+          <img src="https://img.shields.io/badge/Live-tunafund.marcosvictos.com-4CAF50?style=for-the-badge&logo=google-chrome&logoColor=white"/>
+        </a>
+      </p>
+      <p align="center">A <b>group savings platform</b> that enables communities and friends to pool funds together, track contributions, and manage shared financial goals collaboratively.</p>
+    </td>
+    <td width="50%">
+      <h3 align="center">🤖 Job Matcher</h3>
+      <p align="center">
+        <a href="https://jobmatcher.marcosvictos.com/" target="_blank">
+          <img src="https://img.shields.io/badge/Live-jobmatcher.marcosvictos.com-2196F3?style=for-the-badge&logo=google-chrome&logoColor=white"/>
+        </a>
+      </p>
+      <p align="center">An <b>AI-powered CV-to-Job Description matcher</b> that analyzes resumes against job postings and provides intelligent compatibility scores to help candidates land their ideal roles.</p>
+    </td>
+  </tr>
+  <tr>
+    <td width="50%">
+      <h3 align="center">🏠 Hostledger</h3>
+      <p align="center">
+        <a href="https://hostledger.marcosvictos.com/" target="_blank">
+          <img src="https://img.shields.io/badge/Live-hostledger.marcosvictos.com-FF5722?style=for-the-badge&logo=google-chrome&logoColor=white"/>
+        </a>
+      </p>
+      <p align="center">A <b>financial tracker built for short-term stay hosts</b> (Airbnb, etc.) to manage income, expenses, occupancy rates, and profitability across their rental properties.</p>
+    </td>
+    <td width="50%">
+      <h3 align="center">📈 WealthWise</h3>
+      <p align="center">
+        <a href="https://wealthwise.marcosvictos.com/" target="_blank">
+          <img src="https://img.shields.io/badge/Live-wealthwise.marcosvictos.com-9C27B0?style=for-the-badge&logo=google-chrome&logoColor=white"/>
+        </a>
+      </p>
+      <p align="center">An <b>investment insights platform</b> that delivers personalised tips, portfolio guidance, and market intelligence to help users grow their wealth smarter.</p>
+    </td>
+  </tr>
+</table>
+
 ### 📫 Let's Connect!
 
 <div align="center">
