@@ -1,327 +1,87 @@
-<div align="center">
-  <img src="https://capsule-render.vercel.app/api?type=waving&color=gradient&customColorList=6,11,20&height=180&section=header&text=Victor%20Makokha&fontSize=42&fontColor=fff&animation=twinkling&fontAlignY=32" width="100%"/>
-</div>
+<h1 align="center">Victor Makokha</h1>
 
-<div align="center">
-  
-  [![Typing SVG](https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=28&duration=3000&pause=1000&color=2E9EF7&center=true&vCenter=true&multiline=true&repeat=true&width=800&height=100&lines=Full+Stack+Software+Engineer;10%2B+Years+of+Excellence)](https://git.io/typing-svg)
-  
-</div>
+<p align="center">
+  <b>Senior full-stack engineer</b> &nbsp;|&nbsp; Banking and payments &nbsp;|&nbsp; Nairobi, Kenya
+</p>
 
-<div align="center">
-  
-  ```ascii
-  ╔═══════════════════════════════════════════════════════════╗
-  ║  🚀 Building Scalable Solutions Across the Full Stack    ║
-  ║  💡 Transforming Ideas into Production-Ready Applications ║
-  ║  🎯 Leading Teams & Delivering Results                    ║
-  ╚═══════════════════════════════════════════════════════════╝
-  ```
-  
-</div>
+<p align="center">
+  <a href="https://linkedin.com/in/victor-makokha-4817947b"><img alt="LinkedIn" src="https://img.shields.io/badge/LinkedIn-Victor%20Makokha-0A66C2?style=flat&logo=linkedin&logoColor=white"></a>
+  <img alt="Location" src="https://img.shields.io/badge/Based%20in-Nairobi%2C%20Kenya-2ea44f?style=flat">
+  <img alt="Open to" src="https://img.shields.io/badge/Open%20to-Remote%20%26%20Relocation-blue?style=flat">
+</p>
 
----
+I build web and mobile products for banks and fintechs, and the APIs and middleware behind them. Over 10 years, most of them in banking and digital payments. I'm strongest on TypeScript frontends (Angular, React, Vue) and Node.js services, and I like owning a feature from the API contract through to production.
 
-<img align="right" alt="Coding" width="400" src="https://raw.githubusercontent.com/abhisheknaiidu/abhisheknaiidu/master/code.gif">
+## At a glance
 
-### 👨‍💻 About Me
+| 10+ years | 6 engineers led | 30+ developers mentored | Weeks to days |
+| :---: | :---: | :---: | :---: |
+| Banking, telecom, logistics | Middleware and frontend teams at Co-op Bank | One to one, in teams, and with university students | Release time after I built the CI/CD pipeline |
 
-```typescript
-const victor = {
-    location: "Nairobi, Kenya 🇰🇪",
-    role: "Senior Full Stack Engineer",
-    experience: "10+ years",
-    currentFocus: "Python (FastAPI) & LLMs (Deep Learning + GenAI)",
-    currentProject: "Job Matcher - AI-Powered Career Platform",
-    specialties: [
-        "Frontend Architecture",
-        "Backend Scalability", 
-        "Team Leadership",
-        "CI/CD Pipeline Optimization"
-    ],
-    industries: ["E-commerce", "Finance", "Telecommunication"],
-    passion: "Building products that make a difference 🎯"
-};
-```
+## Tech stack
 
-<br clear="right"/>
+<p>
+  <img src="https://skillicons.dev/icons?i=ts,angular,react,nextjs,vue,rxjs,ionic&perline=7" alt="Frontend" /><br>
+  <img src="https://skillicons.dev/icons?i=nodejs,nestjs,express,py,fastapi,laravel,graphql&perline=7" alt="Backend" /><br>
+  <img src="https://skillicons.dev/icons?i=jest,vitest,cypress,azure,gitlab,githubactions,jenkins&perline=7" alt="Testing and delivery" /><br>
+  <img src="https://skillicons.dev/icons?i=docker,kubernetes,postgres,mongodb,git&perline=7" alt="Infrastructure and data" />
+</p>
 
----
+<details>
+<summary>Full list</summary>
 
-### 🎯 Current Focus
+| Area | Tools |
+| --- | --- |
+| Frontend | TypeScript, Angular, NgRx, RxJS, React, Next.js, Vue, Vuex, Ionic, Capacitor |
+| Backend | Node.js, NestJS, Express, Fastify, Python, FastAPI, Laravel |
+| Testing | Jest, Vitest, Mocha, Chai, Sinon, Cypress |
+| Delivery | Azure DevOps (YAML pipelines), GitLab CI, GitHub Actions, Jenkins, Docker, Kubernetes |
+| APIs | REST and OpenAPI, GraphQL, WSO2 |
+| Security | OWASP ZAP, static-code vulnerability remediation |
 
-<table>
-  <tr>
-    <td width="50%">
-      
-#### 🔭 Working On
-      
-**[Job Matcher](https://cvjobmatcher.com/)** - An AI-powered platform that intelligently matches candidates with their ideal job opportunities using advanced LLM technology.
+</details>
 
-</td>
-    <td width="50%">
-      
-#### 🌱 Learning & Growing
-      
-- **Python** (FastAPI Framework)
-- **LLMs** (Deep Learning + Generative AI)
-- **Advanced ML** Architectures
-- **Modern AI** Integration Patterns
-
-</td>
-  </tr>
-</table>
-
----
-
-### 💼 Tech Stack & Expertise
+## Experience
 
 <details open>
-<summary><b>🎨 Frontend Development</b></summary>
-<br>
+<summary><b>Equity Group</b>: Senior Frontend Developer (current)</summary>
 
-![React](https://img.shields.io/badge/React-20232A?style=for-the-badge&logo=react&logoColor=61DAFB)
-![Angular](https://img.shields.io/badge/Angular-DD0031?style=for-the-badge&logo=angular&logoColor=white)
-![Vue.js](https://img.shields.io/badge/Vue.js-35495E?style=for-the-badge&logo=vue.js&logoColor=4FC08D)
-![Next.js](https://img.shields.io/badge/Next.js-000000?style=for-the-badge&logo=next.js&logoColor=white)
-![Nuxt.js](https://img.shields.io/badge/Nuxt.js-00C58E?style=for-the-badge&logo=nuxt.js&logoColor=white)
-![TypeScript](https://img.shields.io/badge/TypeScript-007ACC?style=for-the-badge&logo=typescript&logoColor=white)
-![Redux](https://img.shields.io/badge/Redux-593D88?style=for-the-badge&logo=redux&logoColor=white)
-![TailwindCSS](https://img.shields.io/badge/Tailwind_CSS-38B2AC?style=for-the-badge&logo=tailwind-css&logoColor=white)
+- International money transfer features on the web channel for customers across Africa, integrating **Western Union, MoneyGram, PayPal and PAPSS**, all live.
+- Built the screens and user flows, integrated the provider APIs, handled validation and error cases, and agreed API contracts with backend teams on every feature.
+- Built shared components, libraries and services that later integrations reuse.
+- Traced a PayPal card-delink bug to a queue delay and a webhook the backend wasn't handling after success, then worked with PayPal and two backend engineers to fix it.
+- Mentor and review code for up to 5 engineers.
 
 </details>
 
 <details open>
-<summary><b>⚙️ Backend Development</b></summary>
-<br>
+<summary><b>Co-operative Bank of Kenya</b>: Senior Fullstack Engineer and Tech Lead, middleware and frontend</summary>
 
-![Node.js](https://img.shields.io/badge/Node.js-43853D?style=for-the-badge&logo=node.js&logoColor=white)
-![Laravel](https://img.shields.io/badge/Laravel-FF2D20?style=for-the-badge&logo=laravel&logoColor=white)
-![Python](https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white)
-![FastAPI](https://img.shields.io/badge/FastAPI-009688?style=for-the-badge&logo=fastapi&logoColor=white)
-![NestJS](https://img.shields.io/badge/NestJS-E0234E?style=for-the-badge&logo=nestjs&logoColor=white)
-![Express.js](https://img.shields.io/badge/Express.js-404D59?style=for-the-badge&logo=express&logoColor=white)
-![GraphQL](https://img.shields.io/badge/GraphQL-E10098?style=for-the-badge&logo=graphql&logoColor=white)
+- Led 6 engineers across the middleware and frontend teams behind retail and Sacco banking on web and mobile (Angular, Ionic, Capacitor, Node.js and TypeScript on top of a third-party core banking platform).
+- Built a **CI/CD pipeline from scratch** for the web app, the mobile app and the middleware. A pull request now triggers tests, build and deployment, replacing manual archive, copy and install releases. Deployment time went from **weeks to days**.
+- Set a minimum test coverage, dev to UAT to prod promotion gates and the Git workflow. Incidents and tickets dropped by about **80%**.
+- Implemented the **WSO2 developer portal** that partners use to integrate with the bank's APIs.
 
 </details>
 
-<details open>
-<summary><b>🗄️ Databases & Storage</b></summary>
-<br>
+<details>
+<summary><b>Earlier and part-time work</b></summary>
 
-![MongoDB](https://img.shields.io/badge/MongoDB-4EA94B?style=for-the-badge&logo=mongodb&logoColor=white)
-![PostgreSQL](https://img.shields.io/badge/PostgreSQL-316192?style=for-the-badge&logo=postgresql&logoColor=white)
-![MySQL](https://img.shields.io/badge/MySQL-005C84?style=for-the-badge&logo=mysql&logoColor=white)
-![Redis](https://img.shields.io/badge/Redis-DC382D?style=for-the-badge&logo=redis&logoColor=white)
-![Oracle](https://img.shields.io/badge/Oracle-F80000?style=for-the-badge&logo=oracle&logoColor=white)
+- **Cuco Coding** (part-time, Oct 2023 to Sep 2024): rebuilt the authentication and start-up flow of an Ionic app with NgRx Signal Stores, taking login to the home screen from about **a minute to a few seconds**.
+- **Sendy** (part-time, Nov 2022 to Aug 2023): led a SOLID, multi-country (Kenya, Uganda, Tanzania) localisation architecture across frontend and backend, and cut production bugs by 40% with a Mocha, Chai, Sinon and Cypress testing strategy (Vue, Vuex, Node.js, Express).
+- **Safaricom**: ran OWASP ZAP scans and fixed static-code vulnerabilities, and migrated the dealer portal from PHP 5.1 to 5.4.
 
 </details>
 
-<details open>
-<summary><b>☁️ DevOps & Cloud</b></summary>
-<br>
+## Things I've built on my own
 
-![Docker](https://img.shields.io/badge/Docker-2CA5E0?style=for-the-badge&logo=docker&logoColor=white)
-![Kubernetes](https://img.shields.io/badge/Kubernetes-326ce5?style=for-the-badge&logo=kubernetes&logoColor=white)
-![Azure](https://img.shields.io/badge/Microsoft_Azure-0089D6?style=for-the-badge&logo=microsoft-azure&logoColor=white)
-![Jenkins](https://img.shields.io/badge/Jenkins-D24939?style=for-the-badge&logo=jenkins&logoColor=white)
-![CircleCI](https://img.shields.io/badge/CircleCI-343434?style=for-the-badge&logo=circleci&logoColor=white)
-![Nginx](https://img.shields.io/badge/Nginx-009639?style=for-the-badge&logo=nginx&logoColor=white)
+| Project | What it does | Built with |
+| --- | --- | --- |
+| [**Job Matcher**](https://cvjobmatcher.com) | AI SaaS platform that matches job descriptions to resumes using embedding-based ranking | Python, FastAPI, SQLAlchemy, Next.js |
+| [**Tunafund**](https://tunafund.marcosvictos.com/) | SaaS product for table banking and group savings with automated payment scheduling | NestJS, GraphQL, React |
+| [**HostLedger**](https://hostledger.imanimar.com) | Ledger and booking tool for hosts, with an n8n bot that lets tenants log occupancy over Telegram or WhatsApp | Python, FastAPI, React Native |
+| [**RentLogger**](https://rentlogger.marcosvictos.com) | Logs rent payments for landlords by extracting details from payment messages with AI | Laravel, OpenAI |
 
-</details>
+## Get in touch
 
-<details open>
-<summary><b>🧪 Testing & Quality</b></summary>
-<br>
-
-![Jest](https://img.shields.io/badge/Jest-C21325?style=for-the-badge&logo=jest&logoColor=white)
-![Cypress](https://img.shields.io/badge/Cypress-17202C?style=for-the-badge&logo=cypress&logoColor=white)
-![Selenium](https://img.shields.io/badge/Selenium-43B02A?style=for-the-badge&logo=selenium&logoColor=white)
-![Jasmine](https://img.shields.io/badge/Jasmine-8A4182?style=for-the-badge&logo=jasmine&logoColor=white)
-
-</details>
-
-<details open>
-<summary><b>🤖 AI & Machine Learning</b></summary>
-<br>
-
-![TensorFlow](https://img.shields.io/badge/TensorFlow-FF6F00?style=for-the-badge&logo=tensorflow&logoColor=white)
-![Python](https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white)
-
-</details>
-
----
-
-### 📊 GitHub Analytics
-
-<div align="center">
-  <img height="180em" src="https://github-readme-stats.vercel.app/api?username=makokhavictor&show_icons=true&theme=tokyonight&include_all_commits=true&count_private=true&hide_border=true&bg_color=0D1117&title_color=58A6FF&icon_color=1F6FEB&text_color=C9D1D9"/>
-  <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=makokhavictor&layout=compact&theme=tokyonight&hide_border=true&bg_color=0D1117&title_color=58A6FF&text_color=C9D1D9"/>
-</div>
-
-<div align="center">
-  <img src="https://github-readme-streak-stats.herokuapp.com/?user=makokhavictor&theme=tokyonight&hide_border=true&background=0D1117&stroke=58A6FF&ring=58A6FF&fire=FFA500&currStreakLabel=C9D1D9" alt="GitHub Streak"/>
-</div>
-
-<div align="center">
-  <img src="https://github-profile-trophy.vercel.app/?username=makokhavictor&theme=tokyonight&no-frame=true&no-bg=true&column=7&margin-w=15&margin-h=15" alt="GitHub Trophies"/>
-</div>
-
----
-
-### 🎯 Contribution Graph
-
-<div align="center">
-  <img src="https://github-readme-activity-graph.vercel.app/graph?username=makokhavictor&theme=tokyo-night&hide_border=true&bg_color=0D1117&color=58A6FF&line=1F6FEB&point=58A6FF" width="100%"/>
-</div>
-
----
-
-### 💡 What I Bring to the Table
-
-<table>
-  <tr>
-    <td width="33%" align="center">
-      <img src="https://img.icons8.com/fluency/96/000000/code.png" width="50"/><br>
-      <b>Clean Architecture</b><br>
-      Writing maintainable, scalable code that stands the test of time
-    </td>
-    <td width="33%" align="center">
-      <img src="https://img.icons8.com/fluency/96/000000/team.png" width="50"/><br>
-      <b>Team Leadership</b><br>
-      Mentoring developers and fostering collaborative environments
-    </td>
-    <td width="33%" align="center">
-      <img src="https://img.icons8.com/fluency/96/000000/rocket.png" width="50"/><br>
-      <b>Rapid Delivery</b><br>
-      Implementing CI/CD pipelines for faster, reliable deployments
-    </td>
-  </tr>
-  <tr>
-    <td width="33%" align="center">
-      <img src="https://img.icons8.com/fluency/96/000000/web.png" width="50"/><br>
-      <b>Full Stack Mastery</b><br>
-      Seamlessly bridging frontend elegance with backend robustness
-    </td>
-    <td width="33%" align="center">
-      <img src="https://img.icons8.com/fluency/96/000000/artificial-intelligence.png" width="50"/><br>
-      <b>Innovation</b><br>
-      Leveraging cutting-edge tech like AI/ML to solve real problems
-    </td>
-    <td width="33%" align="center">
-      <img src="https://img.icons8.com/fluency/96/000000/business.png" width="50"/><br>
-      <b>Business Impact</b><br>
-      Aligning technical solutions with business objectives
-    </td>
-  </tr>
-</table>
-
----
-
-### 🏆 Experience Highlights
-
-```yaml
-Industries:
-  - E-commerce: Building scalable platforms handling millions of transactions
-  - Finance: Developing secure, compliant fintech solutions
-  - Telecommunication: Creating robust systems for telecom operations
-
-Achievements:
-  - Led teams of 5-15 developers across multiple projects
-  - Architected and deployed 20+ production applications
-  - Reduced deployment time by 60% through CI/CD optimization
-  - Improved application performance by 40% through code optimization
-  - Mentored 30+ junior developers to senior positions
-```
-
----
-
----
-
-### 🚀 Featured Projects
-
-<table>
-  <tr>
-    <td width="50%">
-      <h3 align="center">💰 Tunafund</h3>
-      <p align="center">
-        <a href="https://tunafund.marcosvictos.com/" target="_blank">
-          <img src="https://img.shields.io/badge/Live-tunafund.marcosvictos.com-4CAF50?style=for-the-badge&logo=google-chrome&logoColor=white"/>
-        </a>
-      </p>
-      <p align="center">A <b>group savings platform</b> that enables communities and friends to pool funds together, track contributions, and manage shared financial goals collaboratively.</p>
-    </td>
-    <td width="50%">
-      <h3 align="center">🤖 Job Matcher</h3>
-      <p align="center">
-        <a href="https://jobmatcher.marcosvictos.com/" target="_blank">
-          <img src="https://img.shields.io/badge/Live-jobmatcher.marcosvictos.com-2196F3?style=for-the-badge&logo=google-chrome&logoColor=white"/>
-        </a>
-      </p>
-      <p align="center">An <b>AI-powered CV-to-Job Description matcher</b> that analyzes resumes against job postings and provides intelligent compatibility scores to help candidates land their ideal roles.</p>
-    </td>
-  </tr>
-  <tr>
-    <td width="50%">
-      <h3 align="center">🏠 Hostledger</h3>
-      <p align="center">
-        <a href="https://hostledger.marcosvictos.com/" target="_blank">
-          <img src="https://img.shields.io/badge/Live-hostledger.marcosvictos.com-FF5722?style=for-the-badge&logo=google-chrome&logoColor=white"/>
-        </a>
-      </p>
-      <p align="center">A <b>financial tracker built for short-term stay hosts</b> (Airbnb, etc.) to manage income, expenses, occupancy rates, and profitability across their rental properties.</p>
-    </td>
-    <td width="50%">
-      <h3 align="center">📈 WealthWise</h3>
-      <p align="center">
-        <a href="https://wealthwise.marcosvictos.com/" target="_blank">
-          <img src="https://img.shields.io/badge/Live-wealthwise.marcosvictos.com-9C27B0?style=for-the-badge&logo=google-chrome&logoColor=white"/>
-        </a>
-      </p>
-      <p align="center">An <b>investment insights platform</b> that delivers personalised tips, portfolio guidance, and market intelligence to help users grow their wealth smarter.</p>
-    </td>
-  </tr>
-</table>
-
-### 📫 Let's Connect!
-
-<div align="center">
-  
-[![Email](https://img.shields.io/badge/Email-marcosvictos@gmail.com-D14836?style=for-the-badge&logo=gmail&logoColor=white)](mailto:marcosvictos@gmail.com)
-[![Portfolio](https://img.shields.io/badge/Portfolio-cvjobmatcher.com-4285F4?style=for-the-badge&logo=google-chrome&logoColor=white)](https://cvjobmatcher.com/)
-[![LinkedIn](https://img.shields.io/badge/LinkedIn-Connect-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://linkedin.com/in/makokhavictor)
-[![GitHub](https://img.shields.io/badge/GitHub-Follow-181717?style=for-the-badge&logo=github&logoColor=white)](https://github.com/makokhavictor)
-
-</div>
-
----
-
-<div align="center">
-  
-### 💬 "Ask me about React, Angular, Vue, Python, CI/CD, Laravel - Always happy to help!"
-
-</div>
-
----
-
-<div align="center">
-  
-### 📈 Profile Views
-
-![Profile Views](https://komarev.com/ghpvc/?username=makokhavictor&color=58A6FF&style=for-the-badge&label=PROFILE+VIEWS)
-
-</div>
-
----
-
-<div align="center">
-  <img src="https://capsule-render.vercel.app/api?type=waving&color=gradient&customColorList=6,11,20&height=100&section=footer" width="100%"/>
-</div>
-
-<div align="center">
-  
-### ⭐ Star my repositories if you find them useful!
-
-**"Code is like humor. When you have to explain it, it's bad." – Cory House**
-
-</div>
+I'm open to remote roles and relocation. The best way to reach me is [LinkedIn](https://linkedin.com/in/victor-makokha-4817947b).
